@@ -40,6 +40,19 @@ Estimer les ventes hebdomadaires en magasin en construisant un modèle d'apprent
 Pour optimiser le temps d'attente, créez des algorithmes qui détermineront les zones chaudes où les conducteurs devraient se trouver à n'importe quel moment de la journée.
 
 *Scikit-learn, XGBoost, Linear Regression, Logistic Regression, Decision Tree, Random Forest, gridsearch & cross validation, KMeans, DBSCAN*
+\
+\
+\
+**4. Analyse prédictive de données non-structurées par   l'intelligence artificielle** (à venir)
+\
+\
+\
+**5. Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision** (à venir)
+\
+\
+\
+**6. Direction de projets de gestion de données** (à venir)
+
 
 
 
