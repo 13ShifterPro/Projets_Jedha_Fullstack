@@ -27,7 +27,7 @@ Explorer un ensemble de données de speed dating pour déterminer les facteurs q
 \
 **3. Analyse prédictive de données structurées par l'intelligence artificielle**
 
-**Convertion challenge**
+**Conversion challenge**
 
 Construire des modèles d'apprentissage automatique capables de prédire au mieux les taux de conversion pour une newsletter en utilisant différentes caractéristiques (déséquilibrées).
 
