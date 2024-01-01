@@ -1,5 +1,7 @@
 ## Repository contenant les projets Data effectués durant la formation Fullstack de Jedha
 
+*Note : Je commence seulement à remplir mon GitHub, les projets manquants arriveront prochainement*
+
 **1. Construction et alimentation d'une infrastructure de gestion de données**
 
 **Kayak** (à venir)
