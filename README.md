@@ -10,9 +10,8 @@ Interrogation de la base de données pour la sélection des meilleures villes en
 Livraison des cartes des emplacements des villes sélectionnées et des hôtels des destinations correspondantes.
 
 *Pandas, Plotly, AWS S3, AWS RDS, APIs, Scrapy*
-
-
-
+\
+\
 **2. Analyse exploratoire, descriptive et inférentielle de données**
 
 **Speed Dating**
