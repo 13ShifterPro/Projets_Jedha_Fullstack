@@ -22,3 +22,34 @@ Livraison des cartes des emplacements des villes sélectionnées et des hôtels 
 Explorer un ensemble de données de speed dating pour déterminer les facteurs qui influent sur l'opportunité d'avoir un deuxième rendez-vous.
 
 *Pandas, Numpy, Seaborn, Matplotlib*
+\
+\
+\
+**3. Analyse prédictive de données structurées par l'intelligence artificielle**
+
+**Convertion challenge**
+
+Construire des modèles d'apprentissage automatique capables de prédire au mieux les taux de conversion pour une newsletter en utilisant différentes caractéristiques (déséquilibrées).
+
+**Walmart**
+
+Estimer les ventes hebdomadaires en magasin en construisant un modèle d'apprentissage automatique et expliquer les indicateurs économiques pour planifier les futures campagnes marketing.
+
+**Uber**
+
+Pour optimiser le temps d'attente, créez des algorithmes qui détermineront les zones chaudes où les conducteurs devraient se trouver à n'importe quel moment de la journée.
+
+*Scikit-learn, XGBoost, Linear Regression, Logistic Regression, Decision Tree, Random Forest, gridsearch & cross validation, KMeans, DBSCAN*
+
+
+
+
+
+
+
+
+
+
+
+
+
