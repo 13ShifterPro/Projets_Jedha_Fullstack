@@ -1,1 +1,2 @@
-# Projets_Jedha_Fullstack
+# Repository contenant les projets Data effectués durant la formation Fullstack de Jedha
+
