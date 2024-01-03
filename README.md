@@ -44,6 +44,12 @@ Pour optimiser le temps d'attente, créez des algorithmes qui détermineront les
 \
 \
 **4. Analyse prédictive de données non-structurées par   l'intelligence artificielle** (à venir)
+
+**AT&T Spam Detector**
+
+Construire un modèle de deep learning capable de repérer automatiquement les spams en se basant sur le contenu des messages.
+
+*Tensorflow, Keras, Transformers, Natural Language Processing : Tokenization, Encoding, Lemmatization, Embedding*
 \
 \
 \
