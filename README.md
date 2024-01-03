@@ -49,7 +49,7 @@ Pour optimiser le temps d'attente, créez des algorithmes qui détermineront les
 
 Construire un modèle de deep learning capable de repérer automatiquement les spams en se basant sur le contenu des messages.
 
-*Tensorflow, Keras, Transformers, Natural Language Processing : Tokenization, Encoding, Lemmatization, Embedding*
+*Tensorflow, Keras, Natural Language Processing : Tokenization, Encoding, Lemmatization, Embedding*
 \
 \
 \
