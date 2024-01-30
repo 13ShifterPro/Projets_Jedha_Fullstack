@@ -9,5 +9,5 @@ A livrer :
 - Un notebook avec tous les prétraitements nécessaires et un ou plusieurs modèles de Deep Learning pour prédire la nature spam ou ham des messages.
 - Indications claires des performances atteintes
 
-Librairies utilisées :
+Librairies utilisées : \
 Pandas, Numpy, Matplotlib, Tensorflow
